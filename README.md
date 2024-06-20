@@ -1,10 +1,6 @@
 <p>Olá! Meu nome é André Reis. Sou estudante do curso de Sistemas de Informação da <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p><br>
-<h3 align="center">Tecnologias que estou estudando</h3>
+<h3 align="center">O que tenho estudado</h3>
 <div align="center" style="display:inline-block">
-<img alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg"> 
-<img alt="html5" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
-<img alt="css3" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
-<img alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"> 
 <img alt="php" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
 <img alt="laravel" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg">
 </div>
