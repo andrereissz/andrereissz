@@ -1,20 +1,28 @@
-<p>Olá! Meu nome é André Reis. Sou estudante do curso de Sistemas de Informação da <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p><br>
-<h3 align="center">O que tenho estudado</h3>
-<div align="center" style="display:inline-block">
-<img alt="php" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
-<img alt="laravel" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg">
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI5Z25qY2xtaXJzbnZxcmE4bDY5NzZ4d3o3YmQ0dzZoejF0a2x3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ogG0x0PBbcCpF871m4/giphy.gif" width="200"/>
 </div>
-<!--
-**andrereissz/andrereissz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/reisaandre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:andrealvesreiscontato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>Olá! Meu nome é André Reis. Sou estudante do curso de Sistemas de Informação da <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p><br>
+<p>Tenho atuado como desenvolvedor web com foco no back-end</p>
+
+---
+
+### 💻 Tecnologias que Tenho Estudado:
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+</div>
+
+---
