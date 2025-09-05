@@ -13,16 +13,17 @@
 
 ---
 
-<p>Olá! Meu nome é André Reis. Sou estudante do curso de Sistemas de Informação da <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p><br>
-<p>Tenho atuado como desenvolvedor web com foco no back-end</p>
+<p>Olá! Meu nome é André Reis. Sou estudante do curso de Sistemas de Informação da <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p>
 
 ---
 
-### 💻 Tecnologias que Tenho Estudado:
+### 💻 Estudando:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 </div>
 
 ---
