@@ -13,7 +13,7 @@
 
 ---
 
-<p>Olá! Meu nome é André Reis. Sou estudante do curso de Sistemas de Informação da <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p>
+<p>Olá! Meu nome é André Reis. Sou Bacharel em Sistemas de Informação pela <a href="https://unimontes.br/" target="_blank">UNIMONTES</a>, seja bem-vind@ ao meu perfil :)</p>
 
 ---
 
